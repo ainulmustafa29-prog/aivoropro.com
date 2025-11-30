@@ -4,5 +4,5 @@ Disallow:/apple-app-site-association
 Disallow:/.well-known/apple-app-site-association
 Allow:/
 Sitemap:https://aivoropro.com/sitemap.xml
-Crawl-delay:1
+
 
