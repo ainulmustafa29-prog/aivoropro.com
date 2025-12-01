@@ -2,7 +2,10 @@ User-agent: *
 Disallow:/cgi-bin/
 Disallow:/apple-app-site-association
 Disallow:/.well-known/apple-app-site-association
+Allow:/favicon.ico
+Allow:/favicon/
 Allow:/
 Sitemap:https://aivoropro.com/sitemap.xml
+
 
 
